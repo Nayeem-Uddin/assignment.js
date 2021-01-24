@@ -1,4 +1,8 @@
-/*
+// https://github.com/Nayeem-Uddin/assignment.js
+
+
+
+
 function kilometerToMeter(km){
         if(km<0){
             return "invalid input"
@@ -10,13 +14,17 @@ function kilometerToMeter(km){
         
 }
 console.log(kilometerToMeter(5))
-*/
 
 
 
 
 
-/*
+
+
+
+
+
+
 function budgetCalculator(watch,mobile,laptop){
 
     if(watch < 0 || mobile < 0 || laptop < 0){
@@ -36,14 +44,14 @@ function budgetCalculator(watch,mobile,laptop){
 }
 
 console.log(budgetCalculator(1,1,1))
-*/
 
 
 
 
 
 
-/*
+
+
 function hotelCost(days){
     if(days < 0){
         return "invalid input";
@@ -61,15 +69,15 @@ function hotelCost(days){
         return cost;
     }
 }
-console.log(hotelCost(0))
-*/
+console.log(hotelCost(10))
 
 
 
 
 
 
-/*
+
+
 var names = ["nayeem","sadia","nila", "Abdullah", "etu"];
 
 function megaFriend(names) {
@@ -82,4 +90,3 @@ function megaFriend(names) {
   return longerName;
 }
 console.log(megaFriend(names));
-*/
