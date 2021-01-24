@@ -63,3 +63,23 @@ function hotelCost(days){
 }
 console.log(hotelCost(0))
 */
+
+
+
+
+
+
+/*
+var names = ["nayeem","sadia","nila", "Abdullah", "etu"];
+
+function megaFriend(names) {
+  var longerName = names[0];
+  for (i = 0; i < names.length; i++) {
+    if (names[i].length > longerName.length) {
+        longerName = names[i];
+    }
+  }
+  return longerName;
+}
+console.log(megaFriend(names));
+*/
